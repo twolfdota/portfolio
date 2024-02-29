@@ -36,7 +36,7 @@ function App() {
         <div className="pbElement">
           <div className="linkContainer">
             <a to="https://www.youtube.com/@cmonesports" href="https://www.youtube.com/@cmonesports" target="_blank" rel="noreferrer"><span>cmon.io</span></a>
-            <a><span><FontAwesomeIcon icon={faEnvelope} /></span> twolfdota@gmail.com</a>
+            <a href="#"><span><FontAwesomeIcon icon={faEnvelope} /></span> twolfdota@gmail.com</a>
           </div>
         </div>
       </header>
